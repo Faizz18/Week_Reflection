@@ -1,0 +1,51 @@
+Software And Hardware Systems 
+
+These are my notes from the unit 1 
+
+Types of Computers 
+
+Personal computers -  these are commonly used by people for normal tasks .
+Servers -  These are designed to manage network resources and serve data to other computers.
+Supercomputers -  Very powerful computers which are used for complex computations . 
+
+There are five major types of units of a computer 
+
+Input unit 
+Output Unit 
+Memory Unit 
+Arithmetic and Logic Unit 
+Control Unit 
+
+The role of a CPU 
+
+It moves data between the ALU and registers . 
+Performs calculations and logical functions 
+The data received is either stored for future use or immediately processed by the ALU. 
+
+Bus Structures
+
+A bus is like a road network that connects all the systems i.e memory , CPU , and I/O devices .
+All data travels through the bus .
+In a single-bus system, only two units can transfer data at the same time.
+Buses have separate lines for data , address , and control signals to ensure smooth communication.
+
+Using multiple buses -  In this , multiple tasks can be done at the same time.
+This improves concurrency, and has higher speed , but also at higher cost . 
+
+Handling Speed Differences 
+
+Devices operate at different speeds(eg., keyboards vs processors )
+For that , buffer registers are used , that temporarily store data for slower devices. 
+
+Multiprocessors and Multicomputers 
+
+Uses multiple processors for efficient task handling . 
+Shared - memory systems -  all processors access common memory - faster but complex . 
+
+Message passing systems -  each processor has its own memory - simple but slower . 
+Enables parallel processing and boots system performance . 
+
+
+RAM (Random access memory) - A memory in which any location can be reached in a short and fixed amount of time after specifying its address. 
+
+
