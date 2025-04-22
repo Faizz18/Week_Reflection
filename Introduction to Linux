@@ -1,0 +1,40 @@
+Linux is an open source operating system.
+It works like a unix . 
+It runs many devices like computers , servers , phones and TV’s
+We could also change and share it because it is open source . 
+Unlike Windows or macOS , Linux gives users more freedom to change how things work. That is why it's a popular choice among the developers.
+
+Linux is used in different places , not just in computers . 
+
+Web servers – Many of the sites run on Linux based servers .  
+
+Smartphones –  Android itself is built on the Linux kernel.
+
+Desktops and laptops – Used in desktops and laptops,by students and especially by professional programmers. 
+
+Other systems – Also devices like routers , TV’s also use linux. 
+
+There are many popular linux distributions , and each one has its own user preference .
+
+Such as Ubunte , which we use , is great for beginners and very easy to use. 
+Whereas, there are Arch linux and many others that are designed for advanced users .
+
+
+So, some basic linux commands are -
+
+cd - For changing directory 
+ls - List the files and directories
+mkdir - This creates a directory 
+rm - For removing the files or directories 
+chmod - Change file permissions
+exit - Exiting the terminal 
+pwd - This shows the current directory
+mv - For moving or renaming files
+
+Different distributors have different package managers , for example , Ubuntu uses apt.
+(sudo apt install firefox)
+
+Using linux has its own benefits.
+It's free and open source , so you don't even have to pay for it.
+It's stable and secure - Doesn't crash often and is less affected by the viruses . 
+Very powerful for programming and also highly customizable 
