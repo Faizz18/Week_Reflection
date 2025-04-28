@@ -1,0 +1,24 @@
+These are the notes from the guest lecture.
+
+It started looking into artificial neurons , and compared them with the biological neurons . 
+Also learned about the And Gate , Or Gate , Threshold functions for “and gate” , and also the Hebb’s rule . 
+
+So these are computational models which are inspired by the way the human brain works .
+
+There are multiple layers of artificial neurons which take inputs , process and produce outputs . 
+
+We also learnt how artificial neurons are built and trained , forward pass and reverse pass and at last estimating and minimizing the loss. 
+
+
+I also learnt about "Logic Operations" and how they can be represented using neural networks
+
+Also came to know about the Hebb’s rule . 
+
+Basically, if two neurons keep working together , their bond gets stronger .
+This idea gave people the clue to make computers learn , by making their connections stronger or weaker based on what happens . 
+
+Furthermore,, also learnt how  a fake neuron (artificial neuron ) is made. 
+
+Got to know why one Perceptron isn't enough for solving tricky problems like XOR problems .
+ 
+And also got to know that these networks train themselves by playing trial and error until they get it right . 
