@@ -1,0 +1,31 @@
+Git is a version control tool that helps you keep track of changes in your code and work smoothly with other people . 
+Github, on the other hand , is a cloud platform where you can store your Git repositories online and collaborate easily with teammates , no matter where they are . 
+
+Why should we use Github?
+Keep track of every change you make in your code .
+Maintains a history so you can always go back to the older versions if needed .
+Makes collaboration easy with people around the world 
+
+Some basic Git commands are - 
+
+git init → Start a brand-new Git repository.
+
+git clone <url> - Copy a repository from GitHub to your computer.
+
+git status - See what’s going on with your files (tracked, untracked, changes made).
+
+git add <file> - Stage (prepare) your file to be committed.
+
+git commit -m "message" - Save your staged changes with a small message.
+
+git push - Send your local commits to GitHub.
+
+git pull  -  Bring the latest changes from GitHub to your machine.
+
+git branch -  See all the branches in your repo.
+
+git checkout -b <branch-name> -  Create a new branch and switch to it.
+
+git branch -d <branch-name> -  Delete a branch once it's merged.
+
+git merge <branch-name> -  Merge another branch into your current one.
