@@ -1,0 +1,67 @@
+This is a note of the things I learned about binary numbers . 
+Binary numbers are very important in computers and digital systems. 
+As computers don't understand regular numbers like we do , they work only with 0’s and 1s, which are called binary digits . 
+
+We followed a few easy steps to convert to a positive decimal number into binary -
+Divide the number by 2 
+Write down the remainder 
+Divide the answer (quotient) again by 2 and repeat the process. 
+Keep doing it until the quotient becomes 0. 
+Finally , read all the remainders backwards , and that's the binary number. 
+
+An example like converting 45 to binary -
+45 ÷ 2 = 22, remainder 1
+
+
+22 ÷ 2 = 11, remainder 0
+
+
+11 ÷ 2 = 5, remainder 1
+
+
+5 ÷ 2 = 2, remainder 1
+
+
+2 ÷ 2 = 1, remainder 0
+
+
+1 ÷ 2 = 0, remainder 1
+
+Now we write the remainders backwards -
+So the binary of 45 is 101101.
+
+To make sure the binary number is right , we can multiply and add 
+
+(1 × 2⁵) = 32
+
+
+(0 × 2⁴) = 0
+
+
+(1 × 2³) = 8
+
+
+(1 × 2²) = 4
+
+
+(0 × 2¹) = 0
+
+
+(1 × 2⁰) = 1
+
+
+Adding them up- 32 + 0 + 8 + 4 + 0 + 1 = 45
+We also learned about two’s complement , which is a way to show negative numbers in binary . 
+This method makes it easier for computers to do math. 
+
+The steps to find the two’s  complement are -
+
+Write the positive binary version (in 8 bits).
+
+
+Flip all the bits (change 0 to 1 and 1 to 0).
+
+
+Add 1 to the result.
+
+Learning how to change numbers into binary and finding two’s complement made me understand the basics of how computers store and process the data .
