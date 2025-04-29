@@ -1,0 +1,26 @@
+My key notes for the TCP/IP Protocols . 
+
+So first we learnt about what exactly is a network . 
+So basically its a bunch oof devices (like our phone , laptop or printer ) all connected together so they can talk to each other , share files , and use the same internet.
+
+Now there are different types of network based on spread out the are -
+
+LAN (Local Area Network ) - Small, like the Wi-fi in our houses.
+WAN( Wide Area Network ) - Big and spread across cities or countries , like the internet itself . 
+
+And for the network to function , we need some physical and logical components .
+These things include routers , severs , cables, switches and hardware . 
+
+Routers - these devices decide where your data goes . It divides information or data that is sent into tiny pieces (packets ) for balancing the load and ensuring a smooth process. 
+
+Servers -  They store websites , files and apps . Whenever you watch a video or check your mail , a server somewhere is sending that info to your device . 
+
+Furthermore , it's the software and rules that actually guide the flow of data . 
+
+IP Address -  Every device on a network gets a unique number. That's how the data knows where to go 
+
+Ip(Internet Protocol ) is the one who addresses and routes the data .
+
+TCP(Transmission Control Protocol)  -  This ensures reliable communication .
+
+TCP/IP Protocol - This is a set of rules that defines how data is transmitted over the internet.
